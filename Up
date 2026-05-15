@@ -1,0 +1,13 @@
+                      {
+    "credits": "@KafuHex",
+    "showDialog": true,
+    "title": "👻 SECRET MOD OFFICIAL 👻",
+    "message": "🔥 This App Modded By MR. NoOB For More Premium Unlocked & Vip Exclusive Apps Join Our Telegram Channel 🔥",
+    "showNegativeButton": true,
+    "negativeButtonText": "Update APK",
+    "negativeButtonUrl": "https://telegram.me/Secretmodofficial",
+    "showPositiveButton": false,
+    "positiveButtonText": "Cancel",
+    "maxShowCount": 999,
+    "controlByShowCount": true
+}
